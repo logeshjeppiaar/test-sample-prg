@@ -1,6 +1,7 @@
 package com.logesh;
 
 public class MyNew {
- //Edited this 
+  
+ System.out.println("New");
 
 }
